@@ -6,7 +6,7 @@
     <groupId>no.kantega</groupId>
     <artifactId>spring-and-react</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>WAR</packaging>
 
     <name>spring-and-react</name>
     <description>Demo project for Spring Boot</description>
